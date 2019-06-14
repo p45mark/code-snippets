@@ -1,0 +1,19 @@
+{
+  "name": "code-snippets",
+  "version": "0.0.1",
+  "description": "helpful code snippets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p45mark/code-snippets.git"
+  },
+  "author": "Mark Barry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p45mark/code-snippets/issues"
+  },
+  "homepage": "https://github.com/p45mark/code-snippets#readme"
+}
